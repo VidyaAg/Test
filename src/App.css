@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.MuiInput-underline:before{
+  display: none !important;
+}
+label+.css-1ptx2yq-MuiInputBase-root-MuiInput-root{
+  margin-top: 25px !important;
+}
+.css-1wnsr1i {
+  padding: 15px !important;
+}
